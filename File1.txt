@@ -2,7 +2,7 @@ Hello World!!
 
 Change  :-> To implement login feature and update some code
 
-Change :-> to test logout feature
+Change :-> To test logout feature
 
 Change :-> to fix bug1
 
@@ -10,6 +10,8 @@ Change :-> to fix bug1
 Change :-> to show 3-way merge
 
 Change :-> to fix bug2
+
+Change :-> Update rebase
 
 
 

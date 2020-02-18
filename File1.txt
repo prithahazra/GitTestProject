@@ -3,7 +3,6 @@ Hello World!!
 Change  :-> To implement login feature and update some code
 
 Change :-> to test logout feature
-change :-> to fix bug1
-change :-> To test 3-way merge hence this
 
-change :-> test 3 merging with bug
+
+
